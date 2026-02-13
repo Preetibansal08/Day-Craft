@@ -1,0 +1,8 @@
+{
+    "name": "day-craft-root",
+    "private": true,
+    "scripts": {
+        "build": "cd client && npm install && npm run build",
+        "install-client": "cd client && npm install"
+    }
+}
